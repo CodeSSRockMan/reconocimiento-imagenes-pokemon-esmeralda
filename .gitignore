@@ -1,0 +1,6 @@
+# Ignorar el archivo de juego .gba
+*.gba
+*.sav
+
+# Ignorar la carpeta de depuración
+debug/

@@ -1,0 +1,172 @@
+Inicio de procesamiento: 2025-01-24 12:49:07.169385
+Procesando imagen: pokemon emerald\Pokemon Emerald-0.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-1.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-2.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-3.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-4.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-5.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-6.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-7.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-8.png
+Procesando imagen: pokemon emerald\Pokemon Emerald-inicio.png
+Procesando imagen: pokemon emerald\capturas\batalla\1986 - Pokemon Emerald (U)(TrashMan)-22.png
+Procesando imagen: pokemon emerald\capturas\batalla\Pokemon Emerald-escaparbatalla.png
+Procesando imagen: pokemon emerald\capturas\batalla\Pokemon Emerald-iniciobatalla.png
+Procesando imagen: pokemon emerald\capturas\batalla\Pokemon Emerald-turnojugador3.png
+Procesando imagen: pokemon emerald\capturas\batalla\Pokemon Emerald-turnojugador5.png
+Procesando imagen: pokemon emerald\capturas\batalla\Pokemon Emerald-turnojugador7.png
+Procesando imagen: pokemon emerald\capturas\batalla\bag\bag-1.png
+Procesando imagen: pokemon emerald\capturas\batalla\bag\bag-2.png
+Procesando imagen: pokemon emerald\capturas\batalla\bag\bag-3.png
+Procesando imagen: pokemon emerald\capturas\batalla\bag\bag-4.png
+Procesando imagen: pokemon emerald\capturas\batalla\bag\bag-5.png
+Procesando imagen: pokemon emerald\capturas\batalla\fight\fight-1.png
+Procesando imagen: pokemon emerald\capturas\batalla\fight\fight-2.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\details\details-1.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\details\details-2.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\details\details-3.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\details\details-4.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\details\details-5.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\details\details-6.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\poke-1.png
+Procesando imagen: pokemon emerald\capturas\batalla\poke\poke-2.png
+Procesando imagen: pokemon emerald\capturas\batalla\pokemon-1.png
+Procesando imagen: pokemon emerald\capturas\batalla\pokemon-2.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-16.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-17.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-18.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-19.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-20.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-21.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-22.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-23.png
+Procesando imagen: pokemon emerald\capturas\outside\1986 - Pokemon Emerald (U)(TrashMan)-24.png
+Procesando imagen: pokemon emerald\pokemon-intro.png
+Total imágenes procesadas: 43
+Imágenes satisfactorias: 0
+Imágenes con error: 43
+Fin de procesamiento: 2025-01-24 12:49:07.377900
+
+Iniciando procesamiento: 2025-01-24 12:59:34.819974
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 13:54:47.207613
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:00:05.564714
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:03:33.529766
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:04:55.628224
+Iniciando procesamiento: 2025-01-24 14:05:46.958786
+Iniciando procesamiento: 2025-01-24 14:06:28.344788
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:08:37.902909
+Iniciando procesamiento: 2025-01-24 14:09:25.510880
+Total procesadas: 11, Éxito: 0, Errores: 11
+Iniciando procesamiento: 2025-01-24 14:11:43.012731
+Total procesadas: 11, Éxito: 0, Errores: 11
+Iniciando procesamiento: 2025-01-24 14:18:04.671306
+Iniciando procesamiento: 2025-01-24 14:19:23.816844
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:20:58.283767
+Total procesadas: 11, Éxito: 11, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:26:14.107922
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:28:41.983343
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:28:52.659746
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:30:18.748068
+Iniciando procesamiento: 2025-01-24 14:31:49.357320
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:32:25.289673
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:34:22.258142
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:39:08.521679
+Iniciando procesamiento: 2025-01-24 14:39:26.324880
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:44:20.381101
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:45:32.578439
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:47:08.196479
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:48:34.595010
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:48:58.141208
+Total procesadas: 16, Éxito: 16, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:50:51.972395
+Total procesadas: 13, Éxito: 13, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:56:57.651079
+Total procesadas: 13, Éxito: 13, Errores: 0
+Iniciando procesamiento: 2025-01-24 14:58:41.501523
+Total procesadas: 13, Éxito: 13, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:00:47.696969
+Total procesadas: 13, Éxito: 13, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:08:37.953594
+Total procesadas: 13, Éxito: 13, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:19:56.953088
+Total procesadas: 13, Éxito: 13, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:23:16.072298
+Total procesadas: 18, Éxito: 18, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:28:17.186793
+Total procesadas: 18, Éxito: 18, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:36:57.444937
+Total procesadas: 18, Éxito: 18, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:45:10.150587
+Total procesadas: 18, Éxito: 18, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:45:49.950916
+Total procesadas: 18, Éxito: 18, Errores: 0
+Iniciando procesamiento: 2025-01-24 15:52:34.388277
+Total procesadas: 6, Éxito: 6, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:07:18.574969
+Total procesadas: 8, Éxito: 8, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:13:30.496988
+Total procesadas: 2, Éxito: 2, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:14:47.500166
+Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:16:47.109962
+Total procesadas: 2, Éxito: 2, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:22:59.896509
+Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:24:32.126710
+Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:28:00.761486
+Iniciando procesamiento: 2025-01-24 16:30:00.446181
+Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:32:36.724892
+Total procesadas: 3, Éxito: 3, Errores: 0
+Iniciando procesamiento: 2025-01-24 16:36:19.235614
+Total procesadas: 3, Éxito: 3, Errores: 0
+Iniciando procesamiento...
+Total procesadas: 3, Éxito: 3, Errores: 0
+Iniciando procesamiento...
+Total procesadas: 24, Éxito: 24, Errores: 0
+Iniciando procesamiento...
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento...
+Total procesadas: 29, Éxito: 29, Errores: 0
+Iniciando procesamiento...
+Total procesadas: 28, Éxito: 28, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:01:37.846276
+Total procesadas: 2, Éxito: 2, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:02:26.559345
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:03:43.859951
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:05:09.244773
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:11:35.743207
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:12:28.662882
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:15:46.418561
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:17:00.931949
+Total procesadas: 0, Éxito: 0, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:17:20.479491
+Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:17:27.944335
+Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 17:22:35.460142
+Total procesadas: 1, Éxito: 1, Errores: 0

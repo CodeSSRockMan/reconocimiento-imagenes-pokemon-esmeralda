@@ -1,0 +1,103 @@
+{
+    "batalla": {
+        "counter": 41,
+        "capturas": [
+            {
+                "id": 1,
+                "ruta": "capturas/batalla/pokemon-1.png"
+            },
+            {
+                "id": 2,
+                "ruta": "capturas/batalla/pokemon-2.png"
+            }
+        ],
+        "subestados": {
+            "fight": {
+                "counter": 2,
+                "capturas": [
+                    {
+                        "id": 1,
+                        "ruta": "capturas/batalla/fight/fight-1.png"
+                    },
+                    {
+                        "id": 2,
+                        "ruta": "capturas/batalla/fight/fight-2.png"
+                    }
+                ]
+            },
+            "bag": {
+                "counter": 5,
+                "capturas": [
+                    {
+                        "id": 1,
+                        "ruta": "capturas/batalla/bag/bag-1.png"
+                    },
+                    {
+                        "id": 2,
+                        "ruta": "capturas/batalla/bag/bag-2.png"
+                    },
+                    {
+                        "id": 3,
+                        "ruta": "capturas/batalla/bag/bag-3.png"
+                    },
+                    {
+                        "id": 4,
+                        "ruta": "capturas/batalla/bag/bag-4.png"
+                    },
+                    {
+                        "id": 5,
+                        "ruta": "capturas/batalla/bag/bag-5.png"
+                    }
+                ]
+            },
+            "poke": {
+                "counter": 2,
+                "capturas": [
+                    {
+                        "id": 1,
+                        "ruta": "capturas/batalla/poke/poke-1.png"
+                    },
+                    {
+                        "id": 2,
+                        "ruta": "capturas/batalla/poke/poke-2.png"
+                    }
+                ],
+                "subestados": {
+                    "details": {
+                        "counter": 6,
+                        "capturas": [
+                            {
+                                "id": 1,
+                                "ruta": "capturas/batalla/poke/details/details-1.png"
+                            },
+                            {
+                                "id": 2,
+                                "ruta": "capturas/batalla/poke/details/details-2.png"
+                            },
+                            {
+                                "id": 3,
+                                "ruta": "capturas/batalla/poke/details/details-3.png"
+                            },
+                            {
+                                "id": 4,
+                                "ruta": "capturas/batalla/poke/details/details-4.png"
+                            },
+                            {
+                                "id": 5,
+                                "ruta": "capturas/batalla/poke/details/details-5.png"
+                            },
+                            {
+                                "id": 6,
+                                "ruta": "capturas/batalla/poke/details/details-6.png"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "default": {
+        "counter": 227,
+        "capturas": []
+    }
+}
