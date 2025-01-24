@@ -1,5 +1,7 @@
 # Proyecto de Reconocimiento y Clasificación de Imágenes en Pokémon Esmeralda
 
+![Demo del proyecto](demo.png)
+
 Este proyecto utiliza técnicas de reconocimiento de imágenes para identificar diferentes estados en el juego **Pokémon Esmeralda**. Actualmente, se encuentra en una fase de desarrollo donde puede reconocer cuándo el juego está en **pelea**, **seleccionando un Pokémon** o **seleccionando un ítem de la mochila**.
 
 ## Requisitos

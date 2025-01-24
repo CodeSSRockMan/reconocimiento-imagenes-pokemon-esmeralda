@@ -170,3 +170,5 @@ Iniciando procesamiento: 2025-01-24 17:17:27.944335
 Total procesadas: 1, Éxito: 1, Errores: 0
 Iniciando procesamiento: 2025-01-24 17:22:35.460142
 Total procesadas: 1, Éxito: 1, Errores: 0
+Iniciando procesamiento: 2025-01-24 18:28:29.127684
+Total procesadas: 4, Éxito: 4, Errores: 0
